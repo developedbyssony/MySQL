@@ -1,0 +1,15 @@
+package accessmodifier;
+
+public class Main02 {
+
+	public static void main(String[] args) {
+		Warrior w1 = new Warrior("ภüป็");
+		w1.getInfo();
+		w1.hunt();
+		w1.doubleAttack();
+		System.out.println("================");
+		w1.getInfo();
+
+	}
+
+}

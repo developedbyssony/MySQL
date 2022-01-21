@@ -1,0 +1,5 @@
+package interaction;
+
+public class Main01 {
+	Buyer b1 = new Buyer()
+}

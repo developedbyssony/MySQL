@@ -1,0 +1,14 @@
+package overriding;
+
+public class Panda extends Animal {
+	public String color;
+	
+	public void howl() {
+		System.out.println("흑흑");
+	}
+	
+	public void getPandaInfo() {
+		System.out.println("이름 : " + name + ", 나이 : " + age + ", 성별 :" + gender + ", 순위 :" + rank);
+	}
+	
+}

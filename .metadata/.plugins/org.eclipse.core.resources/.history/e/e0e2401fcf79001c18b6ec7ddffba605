@@ -1,0 +1,10 @@
+package accessmodifier;
+
+public class main {
+
+	public static void main(String[] args) {
+		Magician c1 = new Magician("¸¶¹ý»ç");
+
+	}
+
+}

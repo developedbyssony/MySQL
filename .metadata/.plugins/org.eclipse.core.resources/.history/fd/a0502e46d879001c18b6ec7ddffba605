@@ -1,0 +1,6 @@
+package accessmodifier;
+
+public class Warrior extends Commoner {
+	
+
+}

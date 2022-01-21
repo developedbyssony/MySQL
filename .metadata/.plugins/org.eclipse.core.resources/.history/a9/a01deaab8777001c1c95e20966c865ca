@@ -1,0 +1,10 @@
+package overriding;
+
+public class Panda extends Animal {
+	public String color;
+	
+	public void howl() {
+		System.out.println("»Ê»Ê");
+	}
+	
+}

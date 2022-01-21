@@ -1,0 +1,14 @@
+package accessmodifier;
+
+public class Warrior extends Commoner {
+	
+	public Warrior (String name) {
+		super(name);
+	}
+	
+	public void hunt() {
+		setHp(getHp()-1);
+		setExp(getExp()+10);
+	}
+
+}

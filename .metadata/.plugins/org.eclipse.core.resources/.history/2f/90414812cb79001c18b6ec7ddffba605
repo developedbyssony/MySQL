@@ -1,0 +1,13 @@
+package accessmodifier;
+
+public class Magician extends Commoner {
+	
+	// 생성자를 만들어주세요.
+	public Magician() {
+		super.(hp);
+		super.(mp);
+		super.(lv);
+		super.(exp);
+		super.(name);
+	}
+}

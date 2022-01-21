@@ -1,0 +1,10 @@
+package classreview;
+
+public class Main {
+
+	public static void main(String[] args) {
+		BasketballPlayer c1 = new BasketballPlayer(100,200);
+
+	}
+
+}

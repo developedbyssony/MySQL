@@ -1,0 +1,11 @@
+package game.interaction;
+
+public class Orc {
+	private int hp;
+	private int atk;
+	
+	public Orc() {
+		hp = 5;
+		atk = 3;
+	}
+}

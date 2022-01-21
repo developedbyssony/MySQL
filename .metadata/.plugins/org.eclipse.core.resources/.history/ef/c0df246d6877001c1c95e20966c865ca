@@ -1,0 +1,17 @@
+package classreview;
+
+public class Car {
+	public int gas;
+	public int speed;
+	public String owner;
+	
+	public Car(String o) {
+		gas = 100;
+		speed = 0;
+		owner = o;
+	}
+	
+	public void getInfor(); {
+		System.out.println(gas);
+	}
+}

@@ -34,13 +34,7 @@ public class Seller {
 		if (this.mango < mango) {
 			System.out.println("망고가 모자랍니다.현재 재고 : " + this.mango);
 			return;
-	}
-	
-	/// 선생님 코드
-	// public void sellMango(int mango) {
-	// this.mango -= mango;
-	// this.money += mango * 5000; }
-		
+	}	
 		
 }
 	//// 구매자의 망고 갯수 조회할 수 있도록 게터 만들기!

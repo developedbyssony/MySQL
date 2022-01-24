@@ -36,6 +36,11 @@ public class Buyer {
 		this.mango += mango; 
 		// 판매자의 sellMango 호출
 		abcd.sellMango(mango);
+		
+		///// 돈이 모자라서 망고를 살 수 없습니다(과제)
+		if (this.MANGO_PRICE * mango > this.money) {
+			System.out.println("돈이 모자라서 망고를 살 수 없습니다.");
+		}
 	}
 	
 	//// Buyer측에서 Seller의 망고개수를 조회하도록 게터 생성

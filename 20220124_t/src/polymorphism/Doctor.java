@@ -2,7 +2,7 @@ package polymorphism;
 
 public class Doctor extends Person {
 	private int pay;
-	
+	             // 김의사         33     100000000
 	public Doctor(String name, int age, int pay) {
 		super(name,age); // super는 생성자 내부에서 한번만 호출
 		this.pay = pay;

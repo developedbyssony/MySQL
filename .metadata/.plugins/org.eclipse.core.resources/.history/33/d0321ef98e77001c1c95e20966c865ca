@@ -1,8 +1,0 @@
-package overloading;
-
-public class Main01 {
-	// 1. Calculator를 생성해주세요.
-	Calculator a1 = new Calculator();
-	// 2. plus(int)를 호출해보겠습니다.
-	a1.plus(4);
-}

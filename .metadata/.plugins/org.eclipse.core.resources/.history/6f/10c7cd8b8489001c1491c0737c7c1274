@@ -1,0 +1,21 @@
+package map1;
+
+import java.util.*;
+
+public class HashMap01P458 {
+
+	public static void main(String[] args) {
+		// Map 인터페이스의 대표 구현체는 HashMap입니다.
+		// 제네릭 내부에서는 <Key 자료형, Value 자료형>으로 작성합니다.
+		Map<String, String> map = new HashMap<>();
+		
+		// 자료 추가는 .put(키값, 밸류값);을 이용합니다.
+		//       key    value
+		map.put("채종훈", "자바");
+		map.put("강아지", "고양이");
+		
+		
+
+	}
+
+}

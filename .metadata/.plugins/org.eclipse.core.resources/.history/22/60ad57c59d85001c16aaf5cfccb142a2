@@ -1,0 +1,20 @@
+package Math1;
+
+public class Math04P480 {
+
+	public static void main(String[] args) {
+		// Math.random()은 0이상 1미만인 난수를 구해줍니다.
+		// 난수란? 정의된 범위 내에서 무작위로 추출된 수
+		// double a = Math.random();
+		// System.out.println(a);
+		
+		// double 15Per = 15 / 100;
+		// double 85Per = 80 / 100;
+		// 15% 확률로 "강화
+		// double b = Math.random();
+		
+		int b = (int)(Math.random() * 7);
+		System.out.println(b);
+		
+		}
+	}

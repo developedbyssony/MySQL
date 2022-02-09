@@ -1,0 +1,18 @@
+package io1;
+
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+public class FileIO01P674 {
+
+	public static void main(String[] args) throws IOException {
+		// 외부에 텍스트파일을 만들기 위해서 FileOutputStream을 사용합니다. 
+		// 변수를 만들고 거기에 파일 경로를 적습니다.
+		// main메서드에 반드시 throws IOException을 작성해야 합니다.
+		 FileOutputStream output =
+		          new FileOutputStream("c:/io/test.txt");
+		
+
+	}
+
+}

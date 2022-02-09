@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 27 resources" deleteContents="false" description="Delete 27 resources" element1="/20211229" element10="/20220111" element11="/20220111_12" element12="/20220113" element13="/20220114" element14="/20220117" element15="/20220118" element16="/20220119" element17="/20220120" element18="/20220121" element19="/20220121_24" element2="/20211230" element20="/20220125" element21="/20220126" element22="/20220127" element23="/20220128" element24="/20220203" element25="/20220204" element26="/20220208" element27="/20220209" element3="/20211231" element4="/20220103" element5="/20220104" element6="/20220105" element7="/20220106" element8="/20220107" element9="/20220110" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="27" stamp="1644415537223"/>
+</session>

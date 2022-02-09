@@ -1,6 +1,0 @@
-package interaction;
-
-public class Main01 {
-//	Buyer b1 = new Buyer()
-	Seller s1 = new Seller(1); // ¸Á°í °¹¼ö°¡ ¸Å°³º¯¼ö
-}

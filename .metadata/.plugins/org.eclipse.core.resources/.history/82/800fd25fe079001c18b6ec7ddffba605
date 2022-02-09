@@ -1,7 +1,0 @@
-package interaction;
-
-public class Main01 {
-//	Buyer b1 = new Buyer()
-	Seller s1 = new Seller(); // ¸Á°í °¹¼ö°¡ ¸Å°³º¯¼ö
-	s1.showSeller();
-}

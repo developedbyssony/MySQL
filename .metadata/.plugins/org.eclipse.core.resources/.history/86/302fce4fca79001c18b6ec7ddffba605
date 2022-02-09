@@ -1,9 +1,0 @@
-package accessmodifier;
-
-public class Magician {
-	
-	// 생성자를 만들어주세요.
-	public Magician() {
-	
-	}
-}

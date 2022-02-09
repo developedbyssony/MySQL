@@ -1,9 +1,0 @@
-package accessmodifier;
-
-public class Magician extends Commoner {
-	
-	// 생성자를 만들어주세요.
-	public Magician(String name) { /// 부모 클래스의 파라미터를 받음
-		super(name);
-	}
-}

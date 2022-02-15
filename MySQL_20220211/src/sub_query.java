@@ -164,7 +164,7 @@ SELECT height FROM userTbl WHERE reg_date = (SELECT min(reg_date) FROM userTbl W
 -- 3. 2에서 구한 키를 조건으로 해서 최종적인 명단을 얻어냄
 
 SELECT * FROM userTbl WHERE height = (SELECT height FROM userTbl WHERE reg_date = (SELECT min(reg_date) FROM userTbl WHERE reg_date > '2021-01-01'));
-
+c
 SELECT height FROM userTbl WHERE height > (SELECT min(reg_date) FROM userTbl);
 
 SELECT * FROM  buyTbl; 

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;polymorphism.Main01.java&apos; to &apos;Main01P302.java&apos;&#x0D;&#x0A;- Original project: &apos;20220124_t&apos;&#x0D;&#x0A;- Original element: &apos;polymorphism.Main01.java&apos;&#x0D;&#x0A;- Renamed element: &apos;polymorphism.Main01P302.java&apos;" description="Rename compilation unit &apos;Main01.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;polymorphism{Main01.java" name="Main01P302.java" references="false" stamp="1643020208830" version="1.0"/>
-</session>
